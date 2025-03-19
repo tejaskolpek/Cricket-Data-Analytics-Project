@@ -25,5 +25,42 @@ This project focuses on **analyzing T-20 Cricket World Cup data** to identify th
 
 ---
 
-## 📂 Project Structure
 
+
+---
+
+## 🔍 Methodology
+
+### 📊 1. Data Collection
+- Web Scraping performed using **Python & JavaScript (BeautifulSoup, Selenium)**
+- Extracted data includes:
+  - Match Summaries
+  - Player Statistics (Batting & Bowling)
+  - Individual Performance Metrics
+
+### 🏗️ 2. Data Processing
+- Cleaned and structured data using **Pandas**
+- Stored data in **processed CSV files** for easy access
+- Created **fact and dimension tables** for Power BI visualization
+
+### 📊 3. Data Visualization (Power BI)
+- Built **interactive dashboards** for match and player performance
+- Used **DAX calculations** for in-depth performance metrics
+- Developed **filters & parameters** for dynamic user interaction
+
+---
+
+## 📈 Key Insights
+
+✔️ **Top Performers**: Identified top **batsmen & bowlers** of the tournament  
+✔️ **Optimal Playing XI**: Data-driven selection of the best team  
+✔️ **Performance Trends**: Analyzed **player trends** across different matches  
+
+---
+
+## 🚀 How to Run the Project
+
+1️⃣ **Clone the Repository**
+```bash
+git clone https://github.com/tejaskolpek/Cricket-Data-Analytics-Project.git
+cd Cricket-Data-Analytics-Project
