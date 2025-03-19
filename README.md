@@ -1,20 +1,29 @@
 # 🏏 Cricket Data Analytics Project
 
-## 📄 Overview
+## 📌 Overview
 
-This project aims to analyze T-20 Cricket World Cup data to identify the best-performing players and construct an optimal playing XI. By leveraging data analytics techniques, we can gain insights into player performances and team dynamics.&#8203;:contentReference[oaicite:2]{index=2}
+This project focuses on **analyzing T-20 Cricket World Cup data** to identify the **best-performing players** and construct an **optimal playing XI**. The analysis leverages **data analytics and visualization techniques** to extract meaningful insights from player and match performance data.
 
-## 📊 Objectives
+---
 
-- :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-- :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+## 🎯 Objectives
+
+✔️ Analyze T-20 World Cup **match and player statistics**  
+✔️ Identify key performance metrics for players  
+✔️ Construct an **optimal playing XI** based on data-driven insights  
+✔️ Visualize insights using **Power BI dashboards**  
+
+---
 
 ## 🛠️ Tools and Technologies
 
-- **Data Collection**: :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-- **Data Processing**: :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- **Data Visualization**: :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
+- **Data Collection**: 🕵️‍♂️ Web Scraping using `Python`, `BeautifulSoup`, `Selenium`
+- **Data Processing**: 🛠️ `Pandas`, `NumPy`
+- **Data Visualization**: 📊 `Power BI`, `Matplotlib`, `Seaborn`
+- **Scripting**: 📝 `Python`, `JavaScript`
+- **Databases**: 📂 CSV, SQL (if applicable)
 
-## 🗂️ Project Structure
+---
+
+## 📂 Project Structure
 
